@@ -6,6 +6,6 @@ Quora is a platform to ask questions and connect with people who contribute uniq
 - Data has five columns : qid1, qid2, question1, question2, is_duplicate
 
 ## Models Used
-- A GRU based model with Attention Mechanism on tokens.
+- A GRU based model with Attention Mechanism on tokens(Achieves 81% accuracy).
 - A GRU based model on characters.
 - A GRU based model on tokens and characters.
